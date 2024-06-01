@@ -19,3 +19,8 @@ https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?%7CCookie=Edge-Cache-Co
 #EXTVLCOPT:http-referrer=https://speci4leagle.com/
 https://n8.dramaticreadings.com:999/hls/vvwillow.m3u8?md5=46GPYI96gTOgJRTKmPjcDg&expires=1717266001
 
+
+#EXTINF:-1 tvg-logo="https://thefridaytimes.com/digital_images/large/2024-02-24/bigger-than-superbowl-pakistan-india-t20-world-cup-clash-drives-insane-ticket-demand-1708760684-4085.jpg",World Cup 2
+#EXTVLCOPT:http-referrer=https://speci4leagle.com/
+https://n5.dramaticreadings.com:999/hls/skysmixx.m3u8?md5=edFGTA1TdBbVRgpaVgj_og&expires=1717269815
+
