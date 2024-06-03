@@ -27,3 +27,6 @@ https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
 
 #EXTINF:-1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-1.04.16-AM.jpeg" group-title="LIVE EVENT",World Cup Bangla
 https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
+
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2018/04/Sky-Sports-Cricket.png" group-title="LIVE EVENT",Sky Sports
+https://cdn247.xyz/sports/live.m3u8?id=12
