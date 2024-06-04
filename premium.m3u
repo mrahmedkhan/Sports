@@ -26,6 +26,11 @@ https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?%7CCookie=Edge-Cache-Co
 https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8?%7CCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717552934:KeyName=prod_live_events:Signature=mepCq2X_ALTXL_AhEQiS8Dtuf-vWnghfqwWcTuE-dacveOsgN1tf8i-BACgYjjeeadj0qRPjxSYhheIFGRePBw
 
 
-#EXTINF:-1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-1.04.16-AM.jpeg" group-title="LIVE EVENT",Sky Sports
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-1.04.16-AM.jpeg" group-title="LIVE EVENT",World Cup 1
+
 https://pstvplaylive.site/hot_eng.php?m3u8=https://pslive.netfy.app/T20live/t20wc_english.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-1.04.16-AM.jpeg" group-title="LIVE EVENT",World Cup 2
+
+https://pstvplaylive.site/hot_eng.php?m3u8=https://pslive.netfy.app/T20live/t20wc_v2english.m3u8 
