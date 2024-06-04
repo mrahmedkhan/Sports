@@ -27,10 +27,12 @@ https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8?%7CCookie=Edge-Cache-Co
 
 
 #EXTINF:-1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-1.04.16-AM.jpeg" group-title="LIVE EVENT",World Cup 1
-
 https://pstvplaylive.site/hot_eng.php?m3u8=https://pslive.netfy.app/T20live/t20wc_english.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-18-at-1.04.16-AM.jpeg" group-title="LIVE EVENT",World Cup 2
-
 https://pstvplaylive.site/hot_eng.php?m3u8=https://pslive.netfy.app/T20live/t20wc_v2english.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fz2hRGOXwAAcFZp.jpg",Barca Tv 1
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F22%2Findex.m3u8&token=97fb4b618f164121bd82e927f0a17dfd9f09a8f2&is_vip=false&verify=1717524000-3uB6KjEu1to1LuqZB3osWIoV2ytTSqmKAhmEGyP6UyA%3D
