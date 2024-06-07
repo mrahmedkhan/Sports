@@ -30,4 +30,7 @@ https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8?%7CCookie=Edge-Cache-Co
 http://public.iptv18.tech/tata.php?id=12169
 
 
-[{"logo":"https:\/\/i.postimg.cc\/8cpX4T7W\/IMG-20231007-170502-315.jpg","name":"ICC WC : CAN v IRE","link":"https:\/\/live-d-01-icc-we.akamaized.net\/variant\/v1blackout\/ch-hd-01-d\/DASH_DASH\/Live\/channel(ch-hd-01)\/manifest.mpd?vcfilter=e4b7d7f8-1954-48c0-943a-d4e7a36cee9b&sessid=e4b7d7f8-1954-48c0-943a-d4e7a36cee9-d&hdnts=st=1717771016~exp=1717771056~acl=\/variant\/v1blackout\/ch-hd-01-d\/*~hmac=9b7197d167124ce73483f009aa551676bf9815f6bdfb967856939e21de9a532d&hdcore=2.11.3","origin":"Developer: MHDZubair","referrer":"Developer: MHDZubair","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/114.0.0.0 Safari\/537.36","cookie":"","drmScheme":"clearkey","drmLicense":"ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb"}]
+#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",tnt 1 (Indi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https:\/\/live-d-01-icc-we.akamaized.net\/variant\/v1blackout\/ch-hd-01-d\/DASH_DASH\/Live\/channel(ch-hd-01)\/manifest.mpd?vcfilter=e4b7d7f8-1954-48c0-943a-d4e7a36cee9b&sessid=e4b7d7f8-1954-48c0-943a-d4e7a36cee9-d&hdnts=st=1717771016~exp=1717771056~acl=\/variant\/v1blackout\/ch-hd-01-d\/*~hmac=9b7197d167124ce73483f009aa551676bf9815f6bdfb967856939e21de9a532d&hdcore=2.11.3
