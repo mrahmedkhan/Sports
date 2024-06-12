@@ -1,12 +1,46 @@
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/84/07/3b840713-b68c-2a16-2755-b14e4465f287/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",ICC TV Only NS
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/hdntl=exp=1718230965~acl=%2fvariant%2fv1blackout%2fch-hd-01-d%2f*~data=hdntl~hmac=cb7677bc052aee8b2a6c58c7b77176c2ead43f769339703d1bb9b37655ca9397/manifest.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/84/07/3b840713-b68c-2a16-2755-b14e4465f287/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",ICC TV Only NS  
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/ch-hd-01-d/DASH_DASH/Live/channel(ch-hd-01)/hdntl=exp=1718230930~acl=%2fvariant%2fv1blackout%2fch-hd-01-d%2f*~data=hdntl~hmac=09f65034377ebe791543d246a60b9a4b9b1cef98b89ef78ec107079a3bdeb764/manifest.mpd 
+[
+  {
+    "name": "Channel-1 English VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_060681001717400250.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718265880:KeyName=prod_live_events:Signature=vWRARWFB85m8c_6Y30yrTBYXNRL9mUG3f_bT_qm2QH60dj5ZSpeK_dbJwTrEdfmNlKmlKIZGWAjYSIKo7YdCBw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Channel-2 Bangla VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718265860:KeyName=prod_live_events:Signature=gZRTBHegnmjrkmXsrsrOiOihvQaOLqcI3-kE8AFcbpvS1l4ck_GN3IzI_NxUdABiTFLHQG1pvlr5LJWsq6bxCw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Channel-3 English VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718265702:KeyName=prod_live_events:Signature=S9TambDqqHmFJiC78tMv6x-aix_jXoOuldq7b2_Rv0clbpjE3I2zrHfEsCCm08_hhBQ8u6BLSpuWqbYJ6HQpBg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Sports VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1718388497:KeyName=prod_linear:Signature=mOxX2_6qIz1KEf_eE1BPSmoE-thqn2aKQ281bPg3EliE3DUNnRuzjZ9Wh1jXTi2KgoRy_h1XofRm1-8t1UxQBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
