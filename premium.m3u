@@ -1,11 +1,57 @@
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="LIVE EVENT",World Cup
-https://retosbd.com/toffe/toffe.php?id=match-1
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png" group-title="LIVE EVENT",World Cup Bangla 
-https://retosbd.com/toffe/toffe.php?id=match-2
-
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/04/EURO-2024.jpg" group-title="LIVE EVENT",Euro Live 1
-https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2024/04/EURO-2024.jpg" group-title="LIVE EVENT",Euro Live 2
-https://dai.google.com/ssai/event/MU1Tz6gxSAuGNMvGmokn4A/master.m3u8 
+[
+  {
+    "name": "Channel-1 English VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_060681001717400250.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718849050:KeyName=prod_live_events:Signature=Tnc4FqQaLFEej-agI-E_GIJSeXDRptSaHFJ6MwoEt_J362Xgs-_10nn-uCY5CpSoa8IM8waDmX5kvP7vcVGTDw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Channel-2 Bangla VIP",
+    "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png",
+    "origin": "https://mprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718849098:KeyName=prod_live_events:Signature=2HDLb7YKRdVk1VMpx0NzRTGEVivA-h_4rBiGePA51SK4cLMJllq_P0zpNEEG7mAlduqWLrj0_QPsCrbFyJwaDw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Dramas VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1718971899:KeyName=prod_linear:Signature=bkorAHmXOaebcUtzzrPX6CiYhFoBUIaDEoMPznWFznoQa85UxvANBDKsRLn6FaW2Wu2FUjd4N7h-cVcTpVlpBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Movies VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1718971899:KeyName=prod_linear:Signature=bkorAHmXOaebcUtzzrPX6CiYhFoBUIaDEoMPznWFznoQa85UxvANBDKsRLn6FaW2Wu2FUjd4N7h-cVcTpVlpBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "TOFFEE Sports VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1718971899:KeyName=prod_linear:Signature=bkorAHmXOaebcUtzzrPX6CiYhFoBUIaDEoMPznWFznoQa85UxvANBDKsRLn6FaW2Wu2FUjd4N7h-cVcTpVlpBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
