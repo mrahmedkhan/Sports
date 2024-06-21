@@ -6,10 +6,11 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718935864:KeyName=prod_live_events:Signature=OEi04HDF-kqrv5YEqNCpYnEEGGc_Ct1zNrWeeHAD5sTwiv3asfwa0gNc4Qla9ES-BMv85Xl8Et6iZTV5f8lYDQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718980118:KeyName=prod_live_events:Signature=JjoJxTrvIlv9zrwDue5D_V-MlA0fKHshh5ugwd1WxHpD7kyF-qSI8ZmwMvCVKZxqraHx-46Gg_fkKZe84SNzAA",
     "drmScheme": "",
     "drmLicense": ""
   },
+
   {
     "name": "Channel-2 Bangla VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
@@ -17,40 +18,7 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718935371:KeyName=prod_live_events:Signature=ptj-lwdP_Ha5KWtG5c3DaFajpa3qaeXfYgVovxy6fQVaatFYubxt39WPuBvquthZba_7nz-cJsDVdLEQ85KoAg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Dramas VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719058250:KeyName=prod_linear:Signature=l-LMNZQuWooIKBZ1U9wAcwozf4TMWIhfRgXM47Fob_z_y48nbUkhtciiannU_LElm1uucX9QSg7OicLodTsXDA",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Movies VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719058250:KeyName=prod_linear:Signature=l-LMNZQuWooIKBZ1U9wAcwozf4TMWIhfRgXM47Fob_z_y48nbUkhtciiannU_LElm1uucX9QSg7OicLodTsXDA",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Sports VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719058250:KeyName=prod_linear:Signature=l-LMNZQuWooIKBZ1U9wAcwozf4TMWIhfRgXM47Fob_z_y48nbUkhtciiannU_LElm1uucX9QSg7OicLodTsXDA",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718980211:KeyName=prod_live_events:Signature=JcS-HDDL2eFEfMYncSWED7AgY7uZFjhQdHWytKoAZf19ITVGplP1hOMv5Ni47Zx0IyRjnG0ZVMSRoDgZuypOCQ",
     "drmScheme": "",
     "drmLicense": ""
   },
