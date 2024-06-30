@@ -1,23 +1,15 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSb_aZL73c1Ggip-PhA_8cEX1g60_ocyMbBA&usqp=CAU",REAL MADRID TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op",Euro 2024
+https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediabrief.com/wp-content/uploads/2024/04/IMAGE-Sony-LIV-to-elevate-UEFA-EURO-2024-MEDIABRIEF.png",UEFA EURO LIVE
-https://a2uy.short.gy/SUI-V-ITA-En/Join-@HimelOP_Official/Zubayer_Op.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_896740001718890173.png" group-title="Zubayer Op",COPA 2024
+https://a2uy.short.gy/Toffee-Copa2/Zubayer_Op.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediabrief.com/wp-content/uploads/2024/04/IMAGE-Sony-LIV-to-elevate-UEFA-EURO-2024-MEDIABRIEF.png",UEFA EURO LIVE 2
-https://a2uy.short.gy/GER-V-DEN-En/Join-@HimelOP_Official/Zubayer_Op.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_443788001719685530.png" group-title="Zubayer Op",COPA 2024
+https://a2uy.short.gy/Toffee-Copa/Zubayer_Op.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png" group-title="Zubayer Op",COPA 2024 2
+https://a2uy.short.gy/COPA-T/Zubayer_Op.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png",WORLD CUP ENGLISH 
-https://mm5-97.tinyuri.org/live/m4-480p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png",WORLD CUP BANGLA 
-https://cdn.querysports.com/hls/toffeebn.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_896740001718890173.png",COPA AMERICA  
-https://retosbd.com/toffe/toffe.php?id=match-4
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png" group-title="Zubayer Op",Euro 2024 2
+https://a2uy.short.gy/EURO-T/Zubayer_Op.m3u8
