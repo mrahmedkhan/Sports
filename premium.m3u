@@ -11,31 +11,9 @@
     "drmLicense": ""
   },
   {
-    "name": "TOFFEE Dramas VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720311729:KeyName=prod_linear:Signature=eb8iRQ9F1OXxGT7UMxxEzakgZ6_6ABUeEVcgx5NRs5E54S7nhLmx4_WMZp-PW2sXu6whE9M7E6SFr9glzWqZBA",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Movies VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720311729:KeyName=prod_linear:Signature=eb8iRQ9F1OXxGT7UMxxEzakgZ6_6ABUeEVcgx5NRs5E54S7nhLmx4_WMZp-PW2sXu6whE9M7E6SFr9glzWqZBA",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Sports VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
+    "name": " T Sports",
+    "link": "http://113.212.111.246:8080/hls/col12.m3u8",
+    "logo": "https://image.pixahunt.com/graphics/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
