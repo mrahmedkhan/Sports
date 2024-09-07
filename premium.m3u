@@ -1,24 +1,4 @@
-[
-  {
-    "name": "COPA America Live-1 VIP",
-    "link": "https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_896740001718890173.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1721030371:KeyName=prod_live_events:Signature=2cLHYjtkEDUMP3-fWT66MwszkC1rGmumdD5xXOqyCcdLhkS4uXbWO2Gi6lGKJ51FMdUD1ulOLxH9KLacvuzLCg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": " T Sports",
-    "link": "http://113.212.111.246:8080/hls/col12.m3u8",
-    "logo": "https://image.pixahunt.com/graphics/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1720311729:KeyName=prod_linear:Signature=eb8iRQ9F1OXxGT7UMxxEzakgZ6_6ABUeEVcgx5NRs5E54S7nhLmx4_WMZp-PW2sXu6whE9M7E6SFr9glzWqZBA",
-    "drmScheme": "",
-    "drmLicense": ""
-  }
-]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", PKL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://livecdn-iptv001.rumsport.com/livetv/451/tracks-v1a1/mono.m3u8?token=8149f9ed8b8593524692b70dea9124f31b3383e8&is_vip=false&verify=1725723420-I9Xg4Yrx0wbz3Z%2BotoI5FE4fdaWK4UkQXGZmHlVT9sM%3D
