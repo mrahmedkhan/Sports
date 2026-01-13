@@ -1,3 +1,12 @@
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CRICHD",TNT 3
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d7.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=8BpZtUAxQn1iuJVPckMRtQ&expires=1768343118
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="CRICHD",TNT 4
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d5.merichunidya.com:1686/hls/bbtespn.m3u8?md5=-a3UZCIfF8t0CYevBpaZlA&expires=1768343118
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1719127158-LIVE.jpg",T Sports 1
 http://10.16.100.202:8080/hls/asports.m3u8
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1719127158-LIVE.jpg",T Sports 2
