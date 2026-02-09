@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="EXTRAS", Prime HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c8743426487c9074b60b456dda93e4d:643e4f68ec9e3309b7e1e61b95bec85d
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/dn7vupw4sj/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd
+https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="EXTRAS", Prime HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
